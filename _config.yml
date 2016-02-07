@@ -1,0 +1,28 @@
+name: Justin_Yeaman
+favicon: null
+layout_spectrum: 0.18542393599636853
+typography_spectrum: 0.07428536703810096
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.36621578177437186
+  lightness: 0.7931810938753188
+  saturation: 0.6447754171676934
+  rhythmicContrast: 0.2018711008131504
+purpose: []
